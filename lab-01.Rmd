@@ -1,7 +1,7 @@
 ---
 title: "Lab 01 - UK Attractions"
-author: "INSERT NAME HERE"
-date: "oct.30th, 2026"
+author: "xun, chen"
+date: "`二是da`"
 output: html_document
 ---
 
@@ -10,7 +10,7 @@ output: html_document
 
 ```{r load-packages, message=FALSE}
 # Do not edit this code chunk!
-library(tidyverse)
+library(tidyverse) 
 ```
 
 ```{r load-data, message=FALSE}
